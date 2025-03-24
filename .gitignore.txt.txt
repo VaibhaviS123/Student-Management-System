@@ -1,0 +1,11 @@
+# Ignore build files
+/target/
+
+# Ignore IDE-specific files
+nbproject/private/
+*.iml
+.idea/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
