@@ -19,5 +19,4 @@ A Java-based GUI application for managing student details.
 3. Right-click on the project and select **“Clean and Build”**.
 4. Run the project by pressing **Shift + F6** or by using the **Run** menu.
 
-## Screenshots (Optional)
-Add screenshots of your GUI application here.
+
